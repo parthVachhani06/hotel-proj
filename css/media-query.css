@@ -1,0 +1,294 @@
+
+@media(max-width:575px){
+    .container{
+        width: 100%;
+    }
+    .d-xs-block{
+        display: block;
+    }
+    .d-xs-none{
+        display: none;
+    }
+    
+    .w-xs-1{
+        width:8.33%
+    }
+    .w-xs-2{
+        width: 16.66%;
+    }
+    .w-xs-3{
+        width: 25%;
+    }
+    .w-xs-4{
+        width: 33.32%;
+    }
+    .w-xs-5{
+        width: 41.65%;
+    }
+    .w-xs-6{
+        width: 50%;
+    }
+    .w-xs-7{
+        width: 66.64%;
+    }
+    .w-xs-8{
+        width: 74.97%;
+    }
+    .w-xs-9{
+        width: 74.97%;
+    }
+    .w-xs-10{
+        width: 83.30%;
+    }
+    .w-xs-11{
+        width: 91.63%;
+    }
+    .w-xs-12{
+        width: 100%;
+    }
+}
+
+
+@media(min-width:576px){
+    .container{
+        width: 540px;
+    }
+    .d-s-block{
+        display: block;
+    }
+    .d-s-none{
+        display: none;
+    }
+    .w-l-1{
+        width:8.33%
+    }
+    .w-l-2{
+        width: 16.66%;
+    }
+    .w-l-3{
+        width: 25%;
+    }
+    .w-l-4{
+        width: 33.32%;
+    }
+    .w-l-5{
+        width: 41.65%;
+    }
+    .w-l-6{
+        width: 50%;
+    }
+    .w-l-7{
+        width: 66.64%;
+    }
+    .w-l-8{
+        width: 74.97%;
+    }
+    .w-l-9{
+        width: 74.97%;
+    }
+    .w-l-10{
+        width: 83.30%;
+    }
+    .w-l-11{
+        width: 91.63%;
+    }
+    .w-l-12{
+        width: 100%;
+    }
+}
+
+
+@media(min-width:768){
+    .container{
+        width: 720px;
+    }
+    .d-m-block{
+        display: block;
+    }
+    .d-m-none{
+        display: none;
+    }
+    .w-m-1{
+        width:8.33%
+    }
+    .w-m-2{
+        width: 16.66%;
+    }
+    .w-m-3{
+        width: 25%;
+    }
+    .w-m-4{
+        width: 33.32%;
+    }
+    .w-m-5{
+        width: 41.65%;
+    }
+    .w-m-6{
+        width: 50%;
+    }
+    .w-m-7{
+        width: 66.64%;
+    }
+    .w-m-8{
+        width: 74.97%;
+    }
+    .w-m-9{
+        width: 74.97%;
+    }
+    .w-m-10{
+        width: 83.30%;
+    }
+    .w-m-11{
+        width: 91.63%;
+    }
+    .w-m-12{
+        width: 100%;
+    }
+}
+
+
+@media(min-width:992px){
+    .container{
+        width: 960px;
+    }
+    .d-l-block{
+        display: block;
+    }
+    .d-l-none{
+        display: none;
+    }
+    .w-l-1{
+        width:8.33%
+    }
+    .w-l-2{
+        width: 16.66%;
+    }
+    .w-l-3{
+        width: 25%;
+    }
+    .w-l-4{
+        width: 33.32%;
+    }
+    .w-l-5{
+        width: 41.65%;
+    }
+    .w-l-6{
+        width: 50%;
+    }
+    .w-l-7{
+        width: 66.64%;
+    }
+    .w-l-8{
+        width: 74.97%;
+    }
+    .w-l-9{
+        width: 74.97%;
+    }
+    .w-l-10{
+        width: 83.30%;
+    }
+    .w-l-11{
+        width: 91.63%;
+    }
+    .w-l-12{
+        width: 100%;
+    }
+}
+
+
+@media(min-width:1200px){
+    .container{
+        width: 1140px;
+    }
+    .d-xl-block{
+        display: block;
+    }
+    .d-xl-none{
+        display: none;
+    }
+    .w-xl-1{
+        width:8.33%
+    }
+    .w-xl-2{
+        width: 16.66%;
+    }
+    .w-xl-3{
+        width: 25%;
+    }
+    .w-xl-4{
+        width: 33.32%;
+    }
+    .w-xl-5{
+        width: 41.65%;
+    }
+    .w-xl-6{
+        width: 50%;
+    }
+    .w-xl-7{
+        width: 66.64%;
+    }
+    .w-xl-8{
+        width: 74.97%;
+    }
+    .w-xl-9{
+        width: 74.97%;
+    }
+    .w-xl-10{
+        width: 83.30%;
+    }
+    .w-xl-11{
+        width: 91.63%;
+    }
+    .w-xl-12{
+        width: 100%;
+    }
+}
+
+
+@media(min-width:1400px){
+    .container{
+        width: 1320px;
+    }
+    .d-xxl-block{
+        display: block;
+    }
+    .d-xxl-none{
+        display: none;
+    }
+    .w-xxl-1{
+        width:8.33%
+    }
+    .w-xxl-2{
+        width: 16.66%;
+    }
+    .w-xxl-3{
+        width: 25%;
+    }
+    .w-xxl-4{
+        width: 33.32%;
+    }
+    .w-xxl-5{
+        width: 41.65%;
+    }
+    .w-xxl-6{
+        width: 50%;
+    }
+    .w-xxl-7{
+        width: 66.64%;
+    }
+    .w-xxl-8{
+        width: 74.97%;
+    }
+    .w-xxl-9{
+        width: 74.97%;
+    }
+    .w-xxl-10{
+        width: 83.30%;
+    }
+    .w-xxl-11{
+        width: 91.63%;
+    }
+    .w-xxl-12{
+        width: 100%;
+    }
+}
